@@ -11,6 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This is what worked for me on Windows 10 as of May 2018 with the latest installs of all these packages if it doesn't "just work" after following the [rticles install instructions](https://github.com/rstudio/rticles) (so you may not have to do this). 
 
+# Big title
+
 #### 1 Install some R packages
 ```{r}
 #Install rticles
