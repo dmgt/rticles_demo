@@ -79,3 +79,12 @@ https://medium.com/@sorenlind/create-pdf-reports-using-r-r-markdown-latex-and-kn
 
 https://rickpackblog.wordpress.com/2017/10/04/miktex-install-for-r-windows-pdf-output-r-markdown/
 
+If you experience an error like this:
+"Error in tools::file_path_as_absolute(output_file)"
+it may be resolved by changing the miktex settings to install required packages automatically on the fly.
+
+Reference:  https://stackoverflow.com/questions/48224162/knitr-wont-compile-pdf-error-in-toolsfile-path-as-absoluteoutput-file
+
+#### 5 More resources
+###### Referencing
+- [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/installation/)

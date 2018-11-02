@@ -1,7 +1,9 @@
 # rticles_demo
 **Example of creating PDFs in journal-specific formats from RMarkdown templates provided with the [`rticles`](https://github.com/rstudio/rticles) package from Rstudio**
 
-**How to use this repo**
+Hello
+
+**How to use this repo:**
  - After following the setup instructions [here](https://github.com/rstudio/rticles) and if neccesary the additional troubleshooting in `notes.Rmd`below, open an .Rmd file from one of the test directories and click knit (in RStudio GUI above) to output a PDF formatted for a specific journal
  
  - More recently added journal tmeplates (eg Springer) were not installed with `rticles` but are avalible on  https://github.com/rstudio/rticles
