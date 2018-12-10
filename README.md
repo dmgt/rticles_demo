@@ -1,7 +1,7 @@
 # rticles_demo
 **Example of creating PDFs in journal-specific formats from RMarkdown templates provided with the [`rticles`](https://github.com/rstudio/rticles) package from Rstudio**
 
-Hello
+[Here](https://daijiang.name/en/2017/04/05/writing-academic-papers-with-rmarkdown/) is an additional paper template written in RMarkdown by Dr. Daijiang Li
 
 **How to use this repo:**
  - After following the setup instructions [here](https://github.com/rstudio/rticles) and if neccesary the additional troubleshooting in `notes.Rmd`below, open an .Rmd file from one of the test directories and click knit (in RStudio GUI above) to output a PDF formatted for a specific journal
